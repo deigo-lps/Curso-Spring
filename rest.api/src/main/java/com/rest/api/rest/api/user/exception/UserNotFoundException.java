@@ -1,4 +1,4 @@
-package com.rest.api.rest.api.user;
+package com.rest.api.rest.api.user.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
